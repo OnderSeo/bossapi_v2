@@ -1,79 +1,170 @@
 [
-  {
-    "url": "https://t2m.io/Genelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748820233/683ce108e0175_atlas-logo.webp",
-    "altText": "Atlasbet",
-    "amount": "150 Freespin",
-    "text": "%100 Freebet"
-  },
-  {
-    "url": "https://t2m.io/zulagenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821557/683ce634ade68_zula-logo.webp",
-    "altText": "Betzula",
-    "amount": "250 Freespin",
-    "text": "250 Freebet"
-  },
-  {
-    "url": "https://t2m.io/songenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748820818/683ce3523664a_son-logo.webp",
-    "altText": "Sonbahis",
-    "amount": "555 Freespin",
-    "text": "100 Freebet"
-  },
-  {
-    "url": "https://meydom.site/genelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821038/683ce42d764ff_mey-logo.webp",
-    "altText": "Meybet",
-    "amount": "150 Freespin",
-    "text": "100 Freebet"
-  },
-  {
-    "url": "https://cutt.ly/genelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821633/683ce68086352_oris-logo.webp",
-    "altText": "Orisbet",
-    "amount": "Özel Bonus",
-    "text": "15.000₺ Bonus"
-  },
-  {
-    "url": "https://t2m.io/Tamgenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821267/683ce5131a650_tam-logo.webp",
-    "altText": "Tambet",
-    "amount": "555 Freespin",
-    "text": "200 Freebet"
-  },
-  {
-    "url": "https://t2m.io/asusgenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821314/683ce5422105e_betasus-logo.webp",
-    "altText": "Betasus",
-    "amount": "100 Freespin",
-    "text": "Yeni Üyelere Özel"
-  },
-  {
-    "url": "https://t2m.io/CBgenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821359/683ce56f72fb0_bonanza-logo.webp",
-    "altText": "CasinoBonanza",
-    "amount": "100 Freespin",
-    "text": "100 Freebet"
-  },
-  {
-    "url": "https://t2m.io/playgenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821480/683ce5e803397_play-logo.webp",
-    "altText": "Betplay",
-    "amount": "250 Freebet",
-    "text": "500₺ Limitsiz Bonus"
-  },
-  {
-    "url": "https://t2m.io/royalgenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821767/683ce706ad36c_royal-logo.webp",
-    "altText": "Royalbet",
-    "amount": "100 Freebet",
-    "text": "555 Freespin"
-  },
-  {
-    "url": "https://t2m.io/bfgenelseoyeni",
-    "logo": "https://res.cloudinary.com/affads/image/upload/v1748821835/683ce74a3ec0a_fair-logo.webp",
-    "altText": "BahisFair",
-    "amount": "100 Freebet",
-    "text": "777 Freespin"
-  }
+	{
+	  "url": "https://t2m.io/Genelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748820233/683ce108e0175_atlas-logo.webp",
+	  "alt": "Atlasbet",
+	  "amount": "150 Freespin",
+	  "text": "%100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/zulagenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821557/683ce634ade68_zula-logo.webp",
+	  "alt": "Betzula",
+	  "amount": "250 Freespin",
+	  "text": "250 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/songenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748820818/683ce3523664a_son-logo.webp",
+	  "alt": "Sonbahis",
+	  "amount": "555 Freespin",
+	  "text": "100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://meydom.site/genelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821038/683ce42d764ff_mey-logo.webp",
+	  "alt": "Meybet",
+	  "amount": "150 Freespin",
+	  "text": "100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://cutt.ly/genelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821633/683ce68086352_oris-logo.webp",
+	  "alt": "Orisbet",
+	  "amount": "Özel Bonus",
+	  "text": "15.000₺ Bonus",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/Tamgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821267/683ce5131a650_tam-logo.webp",
+	  "alt": "Tambet",
+	  "amount": "555 Freespin",
+	  "text": "200 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/asusgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821314/683ce5422105e_betasus-logo.webp",
+	  "alt": "Betasus",
+	  "amount": "100 Freespin",
+	  "text": "Yeni Üyelere Özel",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/CBgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821359/683ce56f72fb0_bonanza-logo.webp",
+	  "alt": "CasinoBonanza",
+	  "amount": "100 Freespin",
+	  "text": "100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/playgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821480/683ce5e803397_play-logo.webp",
+	  "alt": "Betplay",
+	  "amount": "250 Freebet",
+	  "text": "500₺ Limitsiz Bonus",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/royalgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821767/683ce706ad36c_royal-logo.webp",
+	  "alt": "Royalbet",
+	  "amount": "100 Freebet",
+	  "text": "555 Freespin",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/bfgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821835/683ce74a3ec0a_fair-logo.webp",
+	  "alt": "BahisFair",
+	  "amount": "100 Freebet",
+	  "text": "777 Freespin",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/ciogenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748821996/683ce7ebac999_cio-logo.webp",
+	  "alt": "Betcio",
+	  "amount": "2025 Freespin",
+	  "text": "2025 Freespin",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://r2m.io/vipgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822076/683ce83c1a64b_vip-logo.webp",
+	  "alt": "Vipslot",
+	  "amount": "777 Freespin",
+	  "text": "777 Freespin",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/alogenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822107/683ce85ab8b79_alo-logo.webp",
+	  "alt": "Alobet",
+	  "amount": "500 Freespin",
+	  "text": "100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://shorterflix.com/genelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822158/683ce88df07fa_milyon-logo.webp",
+	  "alt": "CasinoMilyon",
+	  "amount": "250 Freebet",
+	  "text": "250 Freespin",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/nsngenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822200/683ce8b83737e_nesine-logo.webp",
+	  "alt": "Nesinecasino",
+	  "amount": "250 Freespin",
+	  "text": "100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/Gobgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822289/683ce91139a4b_game-logo.webp",
+	  "alt": "Gameofbet",
+	  "amount": "100 Nakit",
+	  "text": "100₺ Bonus",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/Popgenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822369/683ce96094a39_pop-logo.webp",
+	  "alt": "CasinoPop",
+	  "amount": "300 Freespin",
+	  "text": "300 Freespin",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/engenelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822416/683ce98fcc70e_en-logo.webp",
+	  "alt": "Enbet",
+	  "amount": "250 Freespin",
+	  "text": "100 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "https://t2m.io/genelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822514/683ce9f1c9dda_milli-logo.webp",
+	  "alt": "Millibahis",
+	  "amount": "250 Freespin",
+	  "text": "250 Freebet",
+	  "button_text": "Bonusu Al"
+	},
+	{
+	  "url": "http://cshgir.xyz/genelseoyeni",
+	  "logo": "https://res.cloudinary.com/affads/image/upload/v1748822608/683cea4f09339_cash-logo.webp",
+	  "alt": "Cashback",
+	  "amount": "250 Freebet",
+	  "text": "500₺ Limitsiz Freespin",
+	  "button_text": "Bonusu Al"
+	}
 ]
